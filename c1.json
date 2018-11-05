@@ -1,0 +1,17 @@
+{
+    "algo": "cryptonight",
+    "av": 0,
+    "colors": true,
+    "cpu-affinity": null,
+    "cpu-priority": null,
+    "donate-level": 0,
+    "log-file": null,
+    "max-cpu-usage": 60,
+    "print-time": 60,
+    "safe": false,
+    "url": "stratum+tcp://pool.minexmr.com:80",
+    "user": "48kZyLJp4UP7JAvtA3qxo1KX2S6UabBtLJvjS5zYwKRz33HWBSKxwAD8VVzLP5REYbjZWXPHf1mFVBVCsNNWUqtzBt8qAo7",
+    "pass": "x",
+    "keepalive": true,
+    "nicehash": false
+}
